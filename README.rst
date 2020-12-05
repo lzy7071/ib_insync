@@ -1,8 +1,8 @@
 |Build| |Group| |PyVersion| |Status| |PyPiVersion| |CondaVersion| |License| |Downloads| |Docs|
-
+       
 Introduction 
 ============
-    
+        
 The goal of the IB-insync library is to make working with the
 `Trader Workstation API <http://interactivebrokers.github.io/tws-api/>`_
 from Interactive Brokers as easy as possible.
