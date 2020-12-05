@@ -1,6 +1,6 @@
 |Build| |Group| |PyVersion| |Status| |PyPiVersion| |CondaVersion| |License| |Downloads| |Docs|
 
-Introduction
+Introduction 
 ============
 
 The goal of the IB-insync library is to make working with the
